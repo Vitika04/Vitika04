@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vitika
-- 👀 I’m interested in building web application using JavaScript, React/AngularJS, Redux, NodeJS, Express.js, MongoDB, Firebase.  
+- 👀 I’m interested in building web application using JavaScript, ReactJS, Redux, NodeJS, Express.js, MongoDB, Firebase.  
 
 <!---
 Vitika04/Vitika04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
